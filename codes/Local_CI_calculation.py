@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
-
 def get_all_csv_name(path):
     filename_list = []
     for folderName, subfolders, filenames in os.walk(path):
