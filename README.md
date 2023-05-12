@@ -3,8 +3,8 @@ A GNN-based Day Ahead Carbon Intensity Forecasting Model for Cross-Border Power 
 
 1. Data sources  
 The European electricity data is published by ENTSOE. CFCG need the following data:  
-(1)Hourly electricity generation by source    
-(2)Hourly electricity flows  
+(1)Hourly history carbon intensity (electricity generation by source)    
+(2)Hourly history electricity flows  
 
 
 2. Environmental dependence  
