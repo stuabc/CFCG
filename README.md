@@ -23,4 +23,5 @@ Note: In a cross-border power grid, the carbon intensity is affected by electric
 [3] [Tracing carbon dioxide emissions in the European electricity markets](https://ieeexplore.ieee.org/document/9221928)  
 3.3 Forecast the carbon intensity in Cross-Border Power Grids:  
 For forecasting cross-border carbon intensity, run the following file: cfcg-main.py
+Continuously updating...
 
